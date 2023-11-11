@@ -4,3 +4,4 @@ this is my first git folder
 you can use simple html
 <br>
 learn with passion
+author - lav kumar
